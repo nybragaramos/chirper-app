@@ -9,7 +9,6 @@ class Tweet extends Component {
 
 	handleLike = (e) => {
 		e.preventDefault();
-		// todo: Handle like
 
     const { dispatch, tweet, authedUser } = this.props;
 
@@ -22,7 +21,9 @@ class Tweet extends Component {
   
 	toParent = (e, id) => {
 		e.preventDefault();
-		// todo: Redirect to parent Tweet
+		//Redirect to parent Tweet
+    this.props.history.push(`/tweet/${id}`)
+
 	}
 
   render() {
@@ -79,4 +80,4 @@ function mapStateToProps ({authedUser, users, tweets}, { id }) {
   };
 }
 
-export default connect(mapStateToProps)(Tweet)
+export default withRouter(connect(mapStateToProps)(Tweet))
