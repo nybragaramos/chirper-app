@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/chirper-app/precache-manifest.47216a26aeae9fbdfe3e6f634c1e6115.js"
+  "/chirper-app/precache-manifest.50b2f6f33cda0173078ba4703b0cf14c.js"
 );
 
 workbox.clientsClaim();

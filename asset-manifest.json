@@ -1,13 +1,13 @@
 {
   "main.css": "/chirper-app/static/css/main.80c837bd.chunk.css",
-  "main.js": "/chirper-app/static/js/main.9a19f8b6.chunk.js",
-  "main.js.map": "/chirper-app/static/js/main.9a19f8b6.chunk.js.map",
+  "main.js": "/chirper-app/static/js/main.d3eeb52e.chunk.js",
+  "main.js.map": "/chirper-app/static/js/main.d3eeb52e.chunk.js.map",
   "static/js/1.5b7471ed.chunk.js": "/chirper-app/static/js/1.5b7471ed.chunk.js",
   "static/js/1.5b7471ed.chunk.js.map": "/chirper-app/static/js/1.5b7471ed.chunk.js.map",
   "runtime~main.js": "/chirper-app/static/js/runtime~main.55f023e3.js",
   "runtime~main.js.map": "/chirper-app/static/js/runtime~main.55f023e3.js.map",
   "static/css/main.80c837bd.chunk.css.map": "/chirper-app/static/css/main.80c837bd.chunk.css.map",
   "index.html": "/chirper-app/index.html",
-  "precache-manifest.47216a26aeae9fbdfe3e6f634c1e6115.js": "/chirper-app/precache-manifest.47216a26aeae9fbdfe3e6f634c1e6115.js",
+  "precache-manifest.50b2f6f33cda0173078ba4703b0cf14c.js": "/chirper-app/precache-manifest.50b2f6f33cda0173078ba4703b0cf14c.js",
   "service-worker.js": "/chirper-app/service-worker.js"
 }
