@@ -1,8 +1,10 @@
 {
-  "name": "chirper",
+  "name": "chirper-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://nybragaramos.github.io/chirper-app/",
   "dependencies": {
+    "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-icons": "^3.2.2",
@@ -17,12 +19,14 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
+    "predeploy": "yarn build" ,
+    "deploy": "gh-pages -d build",
     "eject": "react-scripts eject"
   },
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/udacity/reactnd-chirper-app.git"
+    "url": "https://github.com/udacity/chirper-app.git"
   },
   "browserslist": [
     ">0.2%",
