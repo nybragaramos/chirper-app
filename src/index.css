@@ -137,6 +137,7 @@ li {
 .heart-button {
   background: transparent;
   border: none;
+  padding: 4px 6px 0 6px;
 }
 
 .new-tweet {
