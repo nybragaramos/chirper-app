@@ -1,20 +1,33 @@
 # Chirper Project
 
-This repo is a code-along with the first project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
+This repo is a code-along with a project in the [React Nanodegree program](https://www.udacity.com/course/react-nanodegree--nd019).
 
 Most of the commits in this repository correspond to videos in the program.
 
-## Project Setup
+## Original Source
 
-* clone the Project - `git@github.com:udacity/reactnd-chirper-app.git`
-* install the dependencies - `npm install`
+[Chirper-App](https://github.com/udacity/reactnd-chirper-app)
 
-## Contributing
+## Local Installation
 
-Because this is a code-along project and the commits correspond to specific videos in the program, we will not be accepting pull requests.
+1. [Download](https://github.com/nybragaramos/chirper-app/archive/master.zip) or [Clone](https://github.com/nybragaramos/chirper-app.git) the Repository.
+2. Run `yarn install` at the project folder to install the project dependencies.
+3. Run the app using `yarn start` after all of the dependencies have been installed.
+4. A new browser window should automatically open displaying the app. If it doesn't, navigate to [http://localhost:3000/](http://localhost:3000/) in your browser
 
-If you feel like there's a major problem, please open an issue to discuss the problem and potential resolution.
+## Live APP
+
+[CLICK TO TRY IT OUT!](https://nybragaramos.github.io/chirper-app/)
+
+## Project Tools
+[Yarn](https://yarnpkg.com/)<br />
+[Create React App](https://github.com/facebook/create-react-app)<br />
+[React Redux](https://redux.js.org/basics/usage-with-react)<br />
+[React Icons](https://react-icons.netlify.com/#/)<br />
+[Redux](https://redux.js.org/)<br />
+[Loading Bar](https://www.npmjs.com/package/react-redux-loading)<br />
+[React Router](https://reacttraining.com/react-router/)<br />
 
 ## License
 
-MIT
+[MIT](https://github.com/nybragaramos/chirper-app/blob/master/LICENSE.md)
