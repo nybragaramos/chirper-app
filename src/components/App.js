@@ -15,7 +15,7 @@ class App extends Component {
 
   render() {
     return (
-      <Router>
+      <Router basename={'/chirper-app'}>
         <Fragment>
           <LoadingBar/>
           <div className='container'>  
